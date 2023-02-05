@@ -1,0 +1,6 @@
+// To run the test please issue:
+// cargo run --bin prl_playground -- ./test.txt
+
+    Hello world!
+
+// End
